@@ -1,0 +1,28 @@
+{
+  "name": "twutter",
+  "version": "1.0.0",
+  "description": "Twitter MVP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-jmalone/TwutterAPI.git"
+  },
+  "author": "Jake and Nova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-jmalone/TwutterAPI/issues"
+  },
+  "homepage": "https://github.com/happy-jmalone/TwutterAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongo-factory": "^1.0.0",
+    "mongodb": "^2.2.4",
+    "mongoose": "^4.5.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
